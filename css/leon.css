@@ -205,6 +205,7 @@ html{
     font-weight: bold;
     font-size: 50px; /* Use responsive units */
     color: var(--primary-color);
+    z-index:2;
 }
 
 .landing .intro-text p {
